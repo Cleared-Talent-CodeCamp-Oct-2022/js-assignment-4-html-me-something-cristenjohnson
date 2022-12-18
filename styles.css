@@ -1,1 +1,75 @@
 /* Write your CSS here! */
+
+body{
+    background-color: black;
+    display: block;
+    margin: 100px;
+    padding: 1rem;
+}
+#testP{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #F3E9D3;
+
+}
+
+  #p2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #F3E9D3;
+    
+  }#p3 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #F3E9D3;
+  }#footerText {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #F3E9D3;
+  }
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #F3E9D3;
+}
+h2{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #C08552;
+}
+h3{
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    color: #DAB49D;
+}
+div {
+    border: 3px #895737;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    
+  }
+img {
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    src="images/IMG_1712.jpg" alt="Me at the dunes" width: 600;
+    height: 800;>
+  }
+  #email{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    input[type=button], input[type=submit], input[type=reset] {
+        background-color: #895737;
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        text-decoration: none;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+  }
+  
